@@ -1,0 +1,26 @@
+{
+  "name": "book-record-management-10627",
+  "version": "1.0.0",
+  "description": "Book record management server built with node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalankalim03/book-record-management-10627.git"
+  },
+  "author": "Arsalan Kalim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalankalim03/book-record-management-10627/issues"
+  },
+  "homepage": "https://github.com/arsalankalim03/book-record-management-10627#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
